@@ -1,0 +1,8 @@
+C:\Users\jeson\OneDrive\Documentos\Programacion 2\TareaDeProgramacion2\bin\Debug\TareaDeProgramacion2.exe.config
+C:\Users\jeson\OneDrive\Documentos\Programacion 2\TareaDeProgramacion2\bin\Debug\TareaDeProgramacion2.exe
+C:\Users\jeson\OneDrive\Documentos\Programacion 2\TareaDeProgramacion2\bin\Debug\TareaDeProgramacion2.pdb
+C:\Users\jeson\OneDrive\Documentos\Programacion 2\TareaDeProgramacion2\obj\Debug\TareaDeProgramacion2.csproj.AssemblyReference.cache
+C:\Users\jeson\OneDrive\Documentos\Programacion 2\TareaDeProgramacion2\obj\Debug\TareaDeProgramacion2.csproj.SuggestedBindingRedirects.cache
+C:\Users\jeson\OneDrive\Documentos\Programacion 2\TareaDeProgramacion2\obj\Debug\TareaDeProgramacion2.csproj.CoreCompileInputs.cache
+C:\Users\jeson\OneDrive\Documentos\Programacion 2\TareaDeProgramacion2\obj\Debug\TareaDeProgramacion2.exe
+C:\Users\jeson\OneDrive\Documentos\Programacion 2\TareaDeProgramacion2\obj\Debug\TareaDeProgramacion2.pdb
